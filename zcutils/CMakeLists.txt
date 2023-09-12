@@ -1,9 +1,9 @@
 ###############################################################################
 #
-#    Zevenet zproxy Load Balancer Software License
-#    This file is part of the Zevenet zproxy Load Balancer software package.
+#    RELIANOID reverse proxy Load Balancer Software License
+#    This file is part of the RELIANOID reverse proxy Load Balancer solution.
 #
-#    Copyright (C) 2019-today ZEVENET SL, Sevilla (Spain)
+#    Copyright (C) RELIANOID
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as
@@ -35,7 +35,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(MAINFOLDER ${PROJECT_SOURCE_DIR})
 
 set(PROJECT_VERSION "0.0.1")
-set(PROJECT_DESCRIPTION "Zevenet core utils library")
+set(PROJECT_DESCRIPTION "RELIANOID core utils library")
 set(PROJECT_CODENAME "zcutils")
 
 # get current git info

@@ -1281,13 +1281,13 @@ DOCSET_BUNDLE_ID       = org.doxygen.Project
 # The default value is: org.doxygen.Publisher.
 # This tag requires that the tag GENERATE_DOCSET is set to YES.
 
-DOCSET_PUBLISHER_ID    = org.doxygen.Zevenet
+DOCSET_PUBLISHER_ID    = org.doxygen.Relianoid
 
 # The DOCSET_PUBLISHER_NAME tag identifies the documentation publisher.
 # The default value is: Publisher.
 # This tag requires that the tag GENERATE_DOCSET is set to YES.
 
-DOCSET_PUBLISHER_NAME  = Zevenet
+DOCSET_PUBLISHER_NAME  = Relianoid
 
 # If the GENERATE_HTMLHELP tag is set to YES then doxygen generates three
 # additional HTML index files: index.hhp, index.hhc, and index.hhk. The

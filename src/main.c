@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2023  Zevenet S.L. <support@zevenet.com>
+ * Copyright (C) RELIANOID <devel@relianoid.com>
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as
@@ -42,7 +42,7 @@
 #else
 #define ZPROXY_VERSION		PROJECT_VERSION
 #endif
-#define ZPROXY_COPYRIGHT	"Copyright (C) 2023 ZEVENET S.L."
+#define ZPROXY_COPYRIGHT	"Copyright (C) RELIANOID"
 #define ZPROXY_PROG_NAME	"zproxy"
 
 static struct zproxy_args zproxy_args;

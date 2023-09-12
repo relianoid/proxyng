@@ -1,9 +1,9 @@
 # ZPROXY
 
-ZEVENET Zproxy is a high-performance multithreaded and event-driven L7 reverse
+RELIANOID proxyng is a high-performance multithreaded and event-driven L7 reverse
 proxy and load balancer inspired by Pound reverse proxy simplicity.
 
-Zproxy main features:
+Proxy main features:
 
 * HTTP, HTTPS handling
 * Pound load balancer configuration file compatibility.
@@ -53,8 +53,8 @@ local machine for development and testing purposes.
 First, check out the git repo:
 
 ```
-$ git clone https://github.com/zevenet/zproxy.git zproxy
-$ cd zproxy
+$ git clone https://github.com/relianoid/proxyng.git proxyng
+$ cd proxyng
 $ mkdir build
 $ cd build && cmake ..
 $ make [&& make install]
@@ -775,15 +775,15 @@ specification](/doc/ctl-api.md).
 
 **Pull Requests are WELCOME!** Please submit any fixes or improvements:
 
-* [Project Github Home](https://github.com/zevenet/zproxy)
-* [Submit Issues](https://github.com/zevenet/zproxy/issues)
-* [Pull Requests](https://github.com/zevenet/zproxy/pulls)
+* [Project Github Home](https://github.com/relianoid/proxyng)
+* [Submit Issues](https://github.com/relianoid/proxyng/issues)
+* [Pull Requests](https://github.com/relianoid/proxyng/pulls)
 
 ## License
 
-Copyright &copy; 2023 ZEVENET. Licensed under the terms & conditions of the GNU
+Copyright &copy; RELIANOID. Licensed under the terms & conditions of the GNU
 Affero General Public License (AGPL-3.0).
 
 ## Authors
 
-ZEVENET Team
+RELIANOID Team
